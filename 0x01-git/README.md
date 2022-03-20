@@ -1,1 +1,2 @@
-Getting started with git and github
+Getting started with git and github.
+github updated
